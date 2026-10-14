@@ -1,0 +1,32 @@
+filename = 'figuraextrabone-0.0.3-fabric-1.20.1.jar'
+name = 'Figura ExtraBone'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.0.3-fabric+1.20.1'
+
+[download]
+hash = 'f410d7c02e704e855e92c693d23e5a67cf013f2ecdd3879e9b543e401c16659ab3271057168aa6e43cdaf335f107d60f6951c1efd832315f68192854a75deee3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PNBaqE8G/versions/gk3Nq0L9/figuraextrabone-0.0.3-fabric-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PNBaqE8G'
+version = 'gk3Nq0L9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'pZ2wrerK'
+type = 'REQUIRED'
+version = 'NFPdxMt9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 's9gIPDom'
+type = 'REQUIRED'
+version = 'r3bPBsmg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aRnIEV0F'
+type = 'REQUIRED'
+version = 'DFxVCaiC'

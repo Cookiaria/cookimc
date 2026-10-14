@@ -1,0 +1,18 @@
+filename = 'figura-0.1.6+1.20.1-fabric-mc.jar'
+name = 'Figura'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.6+1.20.1'
+
+[download]
+hash = 'b8f1ead1b8e9c3dc3e8ef45b194fb2980f45f8ce4497cba450137bb980f1310108488e95170e3c59c57327ff2ef54d4d6ba0ab583a4f59268cf85da43a6100ae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s9gIPDom/versions/7WXBplQj/figura-0.1.6%2B1.20.1-fabric-mc.jar'
+
+[update.modrinth]
+mod-id = 's9gIPDom'
+version = '7WXBplQj'
