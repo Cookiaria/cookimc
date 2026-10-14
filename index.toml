@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "83c7768f6e1fe8a83877d796cf6add24ffff529eafc618ed178fe3b840a9fd26"
+hash = "7bb126419133c91083224564b56f938085df826aa4abc2ab193d90256b353d7d"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "b1748187209677146dbd9fbd326450f4d43fa67b07ee8f042d88309389d07a99"
+hash = "09662b5887cddec9f8f499c709ebdc2072cbc4f25e4ec710fe7e0915c20d2963"
 metafile = true
 
 [[files]]
