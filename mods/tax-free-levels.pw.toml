@@ -1,0 +1,13 @@
+name = "Tax Free Levels"
+filename = "TaxFreeLevels-1.4.23-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash = "11a0007f5b2d11f761a89df98cca7b7649caabccc242c9d5679b872169678e0ccece48e2d73f8a5dc0647e7715d02bea6f2a63cdba2199900e021c95b3191119"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/R7TeQeOo/TaxFreeLevels-1.4.23-fabric-1.20.1.jar"
+
+[update.modrinth]
+mod-id = "jCBrrLTs"
+version = "R7TeQeOo"

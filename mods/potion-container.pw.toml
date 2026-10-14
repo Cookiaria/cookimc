@@ -1,0 +1,13 @@
+name = "Potion Container"
+filename = "potion-container-fabric-1.jar"
+side = "both"
+
+[download]
+hash = "d7110e97c6788a3d4a0883f0676c0bb04a3d33d35820426ac297ed67c6188b0206cc6ee4f9f4a4160cacaaca651815f86bba3a4646b13394716e11d1ca7057df"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/V0m1Bqqf/versions/YnjqkvvC/potion-container-fabric-1.jar"
+
+[update.modrinth]
+mod-id = "V0m1Bqqf"
+version = "YnjqkvvC"

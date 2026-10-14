@@ -1,0 +1,13 @@
+name = "Furnish"
+filename = "furnish-26-fabric.jar"
+side = "both"
+
+[download]
+hash = "c9501afd941ab23f83c47fa5d97d0e4b1ed6c1bed7bfb9a854e6afc396849c2b4353c2eead5188f01eaba7b568a4837184687c973dcbddab32e7dd828ad1f7f0"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/5cWCtJmf/versions/eGydI0NY/furnish-26-fabric.jar"
+
+[update.modrinth]
+mod-id = "5cWCtJmf"
+version = "eGydI0NY"
